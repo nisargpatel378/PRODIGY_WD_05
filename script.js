@@ -1,4 +1,4 @@
-const apiKey = '22f88e7e782b3aa8108f0de2393755d7';
+const apiKey = 'YOUR_API_TOKEN';
 
 function fetchWeather() {
     const location = document.getElementById('locationInput').value.trim();
